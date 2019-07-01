@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Suraj_Kentura\\Desktop\\Projects-Personal\\Todos-Application\\TodosApp\\TodoModels\\TodoModels.csproj",
+      "projectUniqueName": "C:\\Users\\Suraj_Kentura\\Desktop\\Todos-Application\\TodosApp\\TodoModels\\TodoModels.csproj",
       "projectName": "TodoModels",
-      "projectPath": "C:\\Users\\Suraj_Kentura\\Desktop\\Projects-Personal\\Todos-Application\\TodosApp\\TodoModels\\TodoModels.csproj",
+      "projectPath": "C:\\Users\\Suraj_Kentura\\Desktop\\Todos-Application\\TodosApp\\TodoModels\\TodoModels.csproj",
       "packagesPath": "C:\\Users\\Suraj_Kentura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Suraj_Kentura\\Desktop\\Projects-Personal\\Todos-Application\\TodosApp\\TodoModels\\obj\\",
+      "outputPath": "C:\\Users\\Suraj_Kentura\\Desktop\\Todos-Application\\TodosApp\\TodoModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

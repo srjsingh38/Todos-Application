@@ -854,11 +854,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Suraj_Kentura\\Desktop\\Projects-Personal\\Todos-Application\\TodosApp\\TodosApp.Logic\\TodosApp.Logic.csproj",
+      "projectUniqueName": "C:\\Users\\Suraj_Kentura\\Desktop\\Todos-Application\\TodosApp\\TodosApp.Logic\\TodosApp.Logic.csproj",
       "projectName": "TodosApp.Logic",
-      "projectPath": "C:\\Users\\Suraj_Kentura\\Desktop\\Projects-Personal\\Todos-Application\\TodosApp\\TodosApp.Logic\\TodosApp.Logic.csproj",
+      "projectPath": "C:\\Users\\Suraj_Kentura\\Desktop\\Todos-Application\\TodosApp\\TodosApp.Logic\\TodosApp.Logic.csproj",
       "packagesPath": "C:\\Users\\Suraj_Kentura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Suraj_Kentura\\Desktop\\Projects-Personal\\Todos-Application\\TodosApp\\TodosApp.Logic\\obj\\",
+      "outputPath": "C:\\Users\\Suraj_Kentura\\Desktop\\Todos-Application\\TodosApp\\TodosApp.Logic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

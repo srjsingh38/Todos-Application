@@ -22,3 +22,15 @@ C:\Users\Suraj_Kentura\Desktop\Projects-Personal\Todos-Application\TodosApp\Todo
 C:\Users\Suraj_Kentura\Desktop\Projects-Personal\Todos-Application\TodosApp\TodosApp.DataAccess\obj\Debug\netstandard2.0\TodosApp.DataAccess.csproj.CopyComplete
 C:\Users\Suraj_Kentura\Desktop\Projects-Personal\Todos-Application\TodosApp\TodosApp.DataAccess\obj\Debug\netstandard2.0\TodosApp.DataAccess.dll
 C:\Users\Suraj_Kentura\Desktop\Projects-Personal\Todos-Application\TodosApp\TodosApp.DataAccess\obj\Debug\netstandard2.0\TodosApp.DataAccess.pdb
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp.DataAccess\bin\Debug\netstandard2.0\TodosApp.DataAccess.deps.json
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp.DataAccess\bin\Debug\netstandard2.0\TodosApp.DataAccess.dll
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp.DataAccess\bin\Debug\netstandard2.0\TodosApp.DataAccess.pdb
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp.DataAccess\bin\Debug\netstandard2.0\TodoModels.dll
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp.DataAccess\bin\Debug\netstandard2.0\TodoModels.pdb
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp.DataAccess\obj\Debug\netstandard2.0\TodosApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp.DataAccess\obj\Debug\netstandard2.0\TodosApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp.DataAccess\obj\Debug\netstandard2.0\TodosApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp.DataAccess\obj\Debug\netstandard2.0\TodosApp.DataAccess.AssemblyInfo.cs
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp.DataAccess\obj\Debug\netstandard2.0\TodosApp.DataAccess.csproj.CopyComplete
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp.DataAccess\obj\Debug\netstandard2.0\TodosApp.DataAccess.dll
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp.DataAccess\obj\Debug\netstandard2.0\TodosApp.DataAccess.pdb

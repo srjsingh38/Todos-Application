@@ -15,3 +15,12 @@ C:\Users\Suraj_Kentura\Desktop\Projects-Personal\Todos-Application\TodosApp\Todo
 C:\Users\Suraj_Kentura\Desktop\Projects-Personal\Todos-Application\TodosApp\TodoModels\obj\Debug\netstandard2.0\TodoModels.AssemblyInfo.cs
 C:\Users\Suraj_Kentura\Desktop\Projects-Personal\Todos-Application\TodosApp\TodoModels\obj\Debug\netstandard2.0\TodoModels.dll
 C:\Users\Suraj_Kentura\Desktop\Projects-Personal\Todos-Application\TodosApp\TodoModels\obj\Debug\netstandard2.0\TodoModels.pdb
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodoModels\bin\Debug\netstandard2.0\TodoModels.deps.json
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodoModels\bin\Debug\netstandard2.0\TodoModels.dll
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodoModels\bin\Debug\netstandard2.0\TodoModels.pdb
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodoModels\obj\Debug\netstandard2.0\TodoModels.csprojAssemblyReference.cache
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodoModels\obj\Debug\netstandard2.0\TodoModels.csproj.CoreCompileInputs.cache
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodoModels\obj\Debug\netstandard2.0\TodoModels.AssemblyInfoInputs.cache
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodoModels\obj\Debug\netstandard2.0\TodoModels.AssemblyInfo.cs
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodoModels\obj\Debug\netstandard2.0\TodoModels.dll
+C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodoModels\obj\Debug\netstandard2.0\TodoModels.pdb

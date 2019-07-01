@@ -843,11 +843,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Suraj_Kentura\\Desktop\\Projects-Personal\\Todos-Application\\TodosApp\\TodosApp.DataAccess\\TodosApp.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Suraj_Kentura\\Desktop\\Todos-Application\\TodosApp\\TodosApp.DataAccess\\TodosApp.DataAccess.csproj",
       "projectName": "TodosApp.DataAccess",
-      "projectPath": "C:\\Users\\Suraj_Kentura\\Desktop\\Projects-Personal\\Todos-Application\\TodosApp\\TodosApp.DataAccess\\TodosApp.DataAccess.csproj",
+      "projectPath": "C:\\Users\\Suraj_Kentura\\Desktop\\Todos-Application\\TodosApp\\TodosApp.DataAccess\\TodosApp.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Suraj_Kentura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Suraj_Kentura\\Desktop\\Projects-Personal\\Todos-Application\\TodosApp\\TodosApp.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Suraj_Kentura\\Desktop\\Todos-Application\\TodosApp\\TodosApp.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -866,8 +866,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Suraj_Kentura\\Desktop\\Projects-Personal\\Todos-Application\\TodosApp\\TodoModels\\TodoModels.csproj": {
-              "projectPath": "C:\\Users\\Suraj_Kentura\\Desktop\\Projects-Personal\\Todos-Application\\TodosApp\\TodoModels\\TodoModels.csproj"
+            "C:\\Users\\Suraj_Kentura\\Desktop\\Todos-Application\\TodosApp\\TodoModels\\TodoModels.csproj": {
+              "projectPath": "C:\\Users\\Suraj_Kentura\\Desktop\\Todos-Application\\TodosApp\\TodoModels\\TodoModels.csproj"
             }
           }
         }
