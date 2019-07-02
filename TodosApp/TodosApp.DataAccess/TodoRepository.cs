@@ -28,7 +28,7 @@ namespace TodosApp.DataAccess
 				{
 					outputList.Add(new TodoModel()
 					{
-						Id = Convert.ToInt32(row["Id"]),
+						Id = Convert.ToString(row["Id"]),
 						Title = Convert.ToString(row["Title"]),
 						isComplete = Convert.ToBoolean(row["isComplete"])
 					});
@@ -54,7 +54,7 @@ namespace TodosApp.DataAccess
 			{
 				connection.Open();
 				SqlCommand command = new SqlCommand("INSERT INTO TODO (Id, Title, isComplete) VALUES (@Id, @Title, @isComplete);", connection);
-				command.Parameters.Add("@Id", SqlDbType.Int).Value = todoModel.Id;
+				command.Parameters.Add("@Id", SqlDbType.NVarChar).Value = todoModel.Id;
 				command.Parameters.Add("@Title", SqlDbType.NVarChar).Value = todoModel.Title;
 				command.Parameters.Add("@isComplete", SqlDbType.Bit).Value = todoModel.isComplete;
 				numberOfRowsAffected = command.ExecuteNonQuery();
@@ -75,7 +75,7 @@ namespace TodosApp.DataAccess
 
 		}
 
-		public TodoModel UpdateTodo(int Id, TodoModel todoModel)
+		public TodoModel UpdateTodo(string Id, TodoModel todoModel)
 		{
 			TodoModel outputTodoModel = new TodoModel();
 
@@ -84,7 +84,7 @@ namespace TodosApp.DataAccess
 			{
 				connection.Open();
 				SqlCommand command = new SqlCommand("UPDATE TODO SET IsComplete = @isComplete where Id = @Id;", connection);
-				command.Parameters.Add("@Id", SqlDbType.Int).Value = Id;
+				command.Parameters.Add("@Id", SqlDbType.NVarChar).Value = Id;
 				command.Parameters.Add("@isComplete", SqlDbType.Bit).Value = todoModel.isComplete;
 				numberOfRowsAffected = command.ExecuteNonQuery();
 				if (numberOfRowsAffected == 1)
@@ -104,7 +104,7 @@ namespace TodosApp.DataAccess
 
 		}
 
-		public int DeleteTodo(int Id)
+		public int DeleteTodo(string Id)
 		{
 			TodoModel outputTodoModel = new TodoModel();
 
@@ -113,7 +113,7 @@ namespace TodosApp.DataAccess
 			{
 				connection.Open();
 				SqlCommand command = new SqlCommand("DELETE FROM TODO WHERE Id= @Id;", connection);
-				command.Parameters.Add("@Id", SqlDbType.Int).Value = Id;
+				command.Parameters.Add("@Id", SqlDbType.NVarChar).Value = Id;
 				numberOfRowsAffected = command.ExecuteNonQuery();
 			}
 			catch (Exception e)

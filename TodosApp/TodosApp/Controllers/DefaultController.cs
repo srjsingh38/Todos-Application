@@ -25,13 +25,13 @@ namespace TodosApp.Controllers
 		}
 
 		// PUT: api/Default/5
-		public IHttpActionResult Put(int id, [FromBody]TodoModel todoValue)
+		public IHttpActionResult Put(string id, [FromBody]TodoModel todoValue)
         {
 			return Ok(repository.UpdateTodo(id, todoValue));
 		}
 
         // DELETE: api/Default/5
-        public IHttpActionResult Delete(int id)
+        public IHttpActionResult Delete(string id)
         {
 			return Ok(repository.DeleteTodo(id));
 		}

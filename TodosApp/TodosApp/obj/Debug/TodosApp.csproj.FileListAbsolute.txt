@@ -289,12 +289,6 @@ C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp\bin\TodosApp.
 C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp\bin\TodoModels.pdb
 C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp\bin\TodosApp.DataAccess.pdb
 C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp\bin\TodosApp.Logic.pdb
-C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp\bin\System.Net.Http.Formatting.xml
-C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp\bin\System.Web.Http.xml
-C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp\bin\System.Web.Http.Cors.xml
-C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp\bin\Newtonsoft.Json.xml
-C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp\bin\System.Web.Http.WebHost.xml
-C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp\obj\Debug\TodosApp.csprojAssemblyReference.cache
 C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp\obj\Debug\TodosApp.csproj.CoreCompileInputs.cache
 C:\Users\Suraj_Kentura\Desktop\Todos-Application\TodosApp\TodosApp\obj\Debug\TodosApp.csproj.CopyComplete

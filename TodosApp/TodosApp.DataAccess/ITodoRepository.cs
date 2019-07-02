@@ -8,8 +8,8 @@ namespace TodosApp.DataAccess
 	public interface ITodoRepository
 	{
 		TodoModel createTodo(TodoModel todoModel);
-		TodoModel UpdateTodo(int Id, TodoModel todoModel);
+		TodoModel UpdateTodo(string Id, TodoModel todoModel);
 		List<TodoModel> GetAllTodos();
-		int DeleteTodo(int id);
+		int DeleteTodo(string id);
 	}
 }

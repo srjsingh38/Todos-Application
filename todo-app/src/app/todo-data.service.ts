@@ -2,13 +2,14 @@ import { Injectable } from '@angular/core';
 import { Todo } from './todo';
 import { ApiService } from './api.service';
 import { Observable } from 'rxjs';
+import { UUID } from 'angular2-uuid';
 
 @Injectable({
   providedIn: 'root'
 })
 export class TodoDataService {
 
-  lastId: number = 0;
+  lastId: string = null;
 
   todos: Todo[] = [];
 
@@ -19,14 +20,14 @@ export class TodoDataService {
   //Simulate the POST /todos
   addTodo(todo: Todo): Observable<Todo> {
     if (!todo.Id) {
-      todo.Id = ++this.lastId;
+      todo.Id = UUID.UUID();
     }
     return this.api.createTodo(todo);
 
   }
 
   //Simulate DELETE /todos/:id
-  deleteTodoById(id: number): Observable<Todo> {
+  deleteTodoById(id: string): Observable<Todo> {
     return this.api.deleteTodoById(id);
   }
 
@@ -41,7 +42,7 @@ export class TodoDataService {
   }
 
   //Simulate GET /todos/:id
-  getTodoById(id: number): Observable<Todo> {
+  getTodoById(id: string): Observable<Todo> {
     return this.api.getTodoById(id);
   }
 

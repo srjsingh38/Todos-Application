@@ -47,7 +47,7 @@ export class ApiService {
   }
 
   //API: GET /todos/:id
-  public getTodoById(todoId: number): Observable<Todo> {
+  public getTodoById(todoId: string): Observable<Todo> {
     return this.http.get(API_URL + '/todos/' + todoId)
       .map(response => {
         return new Todo(response.json());
@@ -65,7 +65,7 @@ export class ApiService {
   }
 
   //API: DELETE /todos/:id
-  public deleteTodoById(todoId: number) : Observable<null> {
+  public deleteTodoById(todoId: string) : Observable<null> {
     return this.http.delete(API_URL+todoId)
     .map(() => null)
     .catch(this.handleError);
