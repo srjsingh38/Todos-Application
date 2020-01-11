@@ -1,9 +1,0 @@
-C:\Users\Suraj_Kentura\source\repos\TodosApp\TodosApp.BModel\bin\Debug\netstandard2.0\TodosApp.BModel.deps.json
-C:\Users\Suraj_Kentura\source\repos\TodosApp\TodosApp.BModel\bin\Debug\netstandard2.0\TodosApp.BModel.dll
-C:\Users\Suraj_Kentura\source\repos\TodosApp\TodosApp.BModel\bin\Debug\netstandard2.0\TodosApp.BModel.pdb
-C:\Users\Suraj_Kentura\source\repos\TodosApp\TodosApp.BModel\obj\Debug\netstandard2.0\TodosApp.BModel.csprojAssemblyReference.cache
-C:\Users\Suraj_Kentura\source\repos\TodosApp\TodosApp.BModel\obj\Debug\netstandard2.0\TodosApp.BModel.csproj.CoreCompileInputs.cache
-C:\Users\Suraj_Kentura\source\repos\TodosApp\TodosApp.BModel\obj\Debug\netstandard2.0\TodosApp.BModel.AssemblyInfoInputs.cache
-C:\Users\Suraj_Kentura\source\repos\TodosApp\TodosApp.BModel\obj\Debug\netstandard2.0\TodosApp.BModel.AssemblyInfo.cs
-C:\Users\Suraj_Kentura\source\repos\TodosApp\TodosApp.BModel\obj\Debug\netstandard2.0\TodosApp.BModel.dll
-C:\Users\Suraj_Kentura\source\repos\TodosApp\TodosApp.BModel\obj\Debug\netstandard2.0\TodosApp.BModel.pdb
